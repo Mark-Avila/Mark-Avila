@@ -1,6 +1,24 @@
-- 👋 Hi, I’m @Mark-Avila
-- 👀 I’m interested in learning front-end web development
-- 🌱 I’m currently just a first-year university student, that means I don't know much yet.
+![github](https://user-images.githubusercontent.com/47880138/126040572-6e54fb86-d3f4-4acd-896a-de5002fee0ef.png)
+
+## Hey there! 👋
+
+My name is Mark Christian Avila
+* 🏫 I am 19 years old and is currently studying at the Technological University of the Philipines
+* 💻 Passionate in becoming a professional web developer
+
+## Languages and tools
+
+### Primary
+* Javascript
+* HTML & CSS
+* SASS
+* Jquery
+* React
+* NodeJS (Express)
+### Secondary
+* PHP
+* C/C++
+* Java 
 
 <!---
 Mark-Avila/Mark-Avila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
