@@ -9,11 +9,9 @@ My name is Mark Christian Avila
 ## Languages and tools
 
 ### Primary
+* React JS
 * Javascript
-* HTML & CSS
-* SASS
-* Jquery
-* React
+* HTML & CSS/SCSS
 * NodeJS (Express)
 ### Secondary
 * PHP
