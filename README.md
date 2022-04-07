@@ -3,20 +3,22 @@
 ## Hey there! 👋
 
 My name is Mark Christian Avila
-* 🏫 I am 19 years old and is currently studying at the Technological University of the Philipines
+* 🏫 I am 20 years old and is currently studying at the Technological University of the Philipines
 * 💻 Passionate in becoming a professional web developer
 
 ## Languages and tools
 
-### Primary
-* React JS
+### Technologies and tools I have experience in
 * Javascript
+  * React JS
+  * Gatsby
+  * Next JS
+  * NodeJS (Express)
+  * jQuery
 * HTML & CSS/SCSS
-* NodeJS (Express)
-### Secondary
-* PHP
-* C/C++
-* Java 
+  * Styled Components
+  * Tailwind CSS
+
 
 <!---
 Mark-Avila/Mark-Avila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
